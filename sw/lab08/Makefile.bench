@@ -1,0 +1,4 @@
+PROG := bench
+SRCS := bench.c gfx.c fixed.c sin_table.c cube.c
+BUILD := build/bench
+include ../common/rules.mk

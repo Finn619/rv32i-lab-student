@@ -1,0 +1,12 @@
+sim_build/
+build/
+sw/*/build/
+arch-test/build/
+arch-test/riscv-arch-test-*/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.ghw
+*.fst
+*.result.xml
+results.xml

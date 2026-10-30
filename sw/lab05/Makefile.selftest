@@ -1,0 +1,4 @@
+PROG := selftest
+SRCS := selftest.c
+BUILD := build/selftest
+include ../common/rules.mk

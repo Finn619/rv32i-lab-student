@@ -1,0 +1,5 @@
+PROG := switch_demo
+SRCS := switch_demo.c gfx.c fixed.c sin_table.c cube.c
+BUILD := build/switch_demo_sim
+CFLAGS := -O2 -g -DSIM_ONE_SHOT
+include ../common/rules.mk

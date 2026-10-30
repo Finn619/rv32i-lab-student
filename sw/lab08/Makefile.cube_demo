@@ -1,0 +1,4 @@
+PROG := cube_demo
+SRCS := cube_demo.c gfx.c fixed.c sin_table.c cube.c
+BUILD := build/cube_demo
+include ../common/rules.mk

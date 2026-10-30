@@ -1,0 +1,4 @@
+PROG := hello
+SRCS := hello.c
+BUILD := build/hello
+include ../common/rules.mk

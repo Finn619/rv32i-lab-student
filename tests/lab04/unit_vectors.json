@@ -1,0 +1,458 @@
+{
+ "branch": [
+  {
+   "rs1": 5,
+   "rs2": 5,
+   "funct3": 0,
+   "name": "BEQ",
+   "taken": 1
+  },
+  {
+   "rs1": 5,
+   "rs2": 5,
+   "funct3": 1,
+   "name": "BNE",
+   "taken": 0
+  },
+  {
+   "rs1": 5,
+   "rs2": 5,
+   "funct3": 4,
+   "name": "BLT",
+   "taken": 0
+  },
+  {
+   "rs1": 5,
+   "rs2": 5,
+   "funct3": 5,
+   "name": "BGE",
+   "taken": 1
+  },
+  {
+   "rs1": 5,
+   "rs2": 5,
+   "funct3": 6,
+   "name": "BLTU",
+   "taken": 0
+  },
+  {
+   "rs1": 5,
+   "rs2": 5,
+   "funct3": 7,
+   "name": "BGEU",
+   "taken": 1
+  },
+  {
+   "rs1": 5,
+   "rs2": 6,
+   "funct3": 0,
+   "name": "BEQ",
+   "taken": 0
+  },
+  {
+   "rs1": 5,
+   "rs2": 6,
+   "funct3": 1,
+   "name": "BNE",
+   "taken": 1
+  },
+  {
+   "rs1": 5,
+   "rs2": 6,
+   "funct3": 4,
+   "name": "BLT",
+   "taken": 1
+  },
+  {
+   "rs1": 5,
+   "rs2": 6,
+   "funct3": 5,
+   "name": "BGE",
+   "taken": 0
+  },
+  {
+   "rs1": 5,
+   "rs2": 6,
+   "funct3": 6,
+   "name": "BLTU",
+   "taken": 1
+  },
+  {
+   "rs1": 5,
+   "rs2": 6,
+   "funct3": 7,
+   "name": "BGEU",
+   "taken": 0
+  },
+  {
+   "rs1": 4294967295,
+   "rs2": 1,
+   "funct3": 0,
+   "name": "BEQ",
+   "taken": 0
+  },
+  {
+   "rs1": 4294967295,
+   "rs2": 1,
+   "funct3": 1,
+   "name": "BNE",
+   "taken": 1
+  },
+  {
+   "rs1": 4294967295,
+   "rs2": 1,
+   "funct3": 4,
+   "name": "BLT",
+   "taken": 1
+  },
+  {
+   "rs1": 4294967295,
+   "rs2": 1,
+   "funct3": 5,
+   "name": "BGE",
+   "taken": 0
+  },
+  {
+   "rs1": 4294967295,
+   "rs2": 1,
+   "funct3": 6,
+   "name": "BLTU",
+   "taken": 0
+  },
+  {
+   "rs1": 4294967295,
+   "rs2": 1,
+   "funct3": 7,
+   "name": "BGEU",
+   "taken": 1
+  },
+  {
+   "rs1": 1,
+   "rs2": 4294967295,
+   "funct3": 0,
+   "name": "BEQ",
+   "taken": 0
+  },
+  {
+   "rs1": 1,
+   "rs2": 4294967295,
+   "funct3": 1,
+   "name": "BNE",
+   "taken": 1
+  },
+  {
+   "rs1": 1,
+   "rs2": 4294967295,
+   "funct3": 4,
+   "name": "BLT",
+   "taken": 0
+  },
+  {
+   "rs1": 1,
+   "rs2": 4294967295,
+   "funct3": 5,
+   "name": "BGE",
+   "taken": 1
+  },
+  {
+   "rs1": 1,
+   "rs2": 4294967295,
+   "funct3": 6,
+   "name": "BLTU",
+   "taken": 1
+  },
+  {
+   "rs1": 1,
+   "rs2": 4294967295,
+   "funct3": 7,
+   "name": "BGEU",
+   "taken": 0
+  },
+  {
+   "rs1": 2147483648,
+   "rs2": 2147483647,
+   "funct3": 0,
+   "name": "BEQ",
+   "taken": 0
+  },
+  {
+   "rs1": 2147483648,
+   "rs2": 2147483647,
+   "funct3": 1,
+   "name": "BNE",
+   "taken": 1
+  },
+  {
+   "rs1": 2147483648,
+   "rs2": 2147483647,
+   "funct3": 4,
+   "name": "BLT",
+   "taken": 1
+  },
+  {
+   "rs1": 2147483648,
+   "rs2": 2147483647,
+   "funct3": 5,
+   "name": "BGE",
+   "taken": 0
+  },
+  {
+   "rs1": 2147483648,
+   "rs2": 2147483647,
+   "funct3": 6,
+   "name": "BLTU",
+   "taken": 0
+  },
+  {
+   "rs1": 2147483648,
+   "rs2": 2147483647,
+   "funct3": 7,
+   "name": "BGEU",
+   "taken": 1
+  },
+  {
+   "rs1": 0,
+   "rs2": 0,
+   "funct3": 0,
+   "name": "BEQ",
+   "taken": 1
+  },
+  {
+   "rs1": 0,
+   "rs2": 0,
+   "funct3": 1,
+   "name": "BNE",
+   "taken": 0
+  },
+  {
+   "rs1": 0,
+   "rs2": 0,
+   "funct3": 4,
+   "name": "BLT",
+   "taken": 0
+  },
+  {
+   "rs1": 0,
+   "rs2": 0,
+   "funct3": 5,
+   "name": "BGE",
+   "taken": 1
+  },
+  {
+   "rs1": 0,
+   "rs2": 0,
+   "funct3": 6,
+   "name": "BLTU",
+   "taken": 0
+  },
+  {
+   "rs1": 0,
+   "rs2": 0,
+   "funct3": 7,
+   "name": "BGEU",
+   "taken": 1
+  }
+ ],
+ "lsu": [
+  {
+   "funct3": 0,
+   "addr_lo": 0,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 0,
+   "byte_en": 1,
+   "wdata_lanes": 239,
+   "load_data": 4294967236
+  },
+  {
+   "funct3": 0,
+   "addr_lo": 1,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 0,
+   "byte_en": 2,
+   "wdata_lanes": 61184,
+   "load_data": 4294967251
+  },
+  {
+   "funct3": 0,
+   "addr_lo": 2,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 0,
+   "byte_en": 4,
+   "wdata_lanes": 15663104,
+   "load_data": 4294967266
+  },
+  {
+   "funct3": 0,
+   "addr_lo": 3,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 0,
+   "byte_en": 8,
+   "wdata_lanes": 4009754624,
+   "load_data": 4294967281
+  },
+  {
+   "funct3": 1,
+   "addr_lo": 0,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 0,
+   "byte_en": 3,
+   "wdata_lanes": 52719,
+   "load_data": 4294955972
+  },
+  {
+   "funct3": 1,
+   "addr_lo": 1,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 1,
+   "byte_en": null,
+   "wdata_lanes": null,
+   "load_data": null
+  },
+  {
+   "funct3": 1,
+   "addr_lo": 2,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 0,
+   "byte_en": 12,
+   "wdata_lanes": 3454992384,
+   "load_data": 4294963682
+  },
+  {
+   "funct3": 1,
+   "addr_lo": 3,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 1,
+   "byte_en": null,
+   "wdata_lanes": null,
+   "load_data": null
+  },
+  {
+   "funct3": 2,
+   "addr_lo": 0,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 0,
+   "byte_en": 15,
+   "wdata_lanes": 2309737967,
+   "load_data": 4058174404
+  },
+  {
+   "funct3": 2,
+   "addr_lo": 1,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 1,
+   "byte_en": null,
+   "wdata_lanes": null,
+   "load_data": null
+  },
+  {
+   "funct3": 2,
+   "addr_lo": 2,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 1,
+   "byte_en": null,
+   "wdata_lanes": null,
+   "load_data": null
+  },
+  {
+   "funct3": 2,
+   "addr_lo": 3,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 1,
+   "byte_en": null,
+   "wdata_lanes": null,
+   "load_data": null
+  },
+  {
+   "funct3": 4,
+   "addr_lo": 0,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 0,
+   "byte_en": 1,
+   "wdata_lanes": null,
+   "load_data": 196
+  },
+  {
+   "funct3": 4,
+   "addr_lo": 1,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 0,
+   "byte_en": 2,
+   "wdata_lanes": null,
+   "load_data": 211
+  },
+  {
+   "funct3": 4,
+   "addr_lo": 2,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 0,
+   "byte_en": 4,
+   "wdata_lanes": null,
+   "load_data": 226
+  },
+  {
+   "funct3": 4,
+   "addr_lo": 3,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 0,
+   "byte_en": 8,
+   "wdata_lanes": null,
+   "load_data": 241
+  },
+  {
+   "funct3": 5,
+   "addr_lo": 0,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 0,
+   "byte_en": 3,
+   "wdata_lanes": null,
+   "load_data": 54212
+  },
+  {
+   "funct3": 5,
+   "addr_lo": 1,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 1,
+   "byte_en": null,
+   "wdata_lanes": null,
+   "load_data": null
+  },
+  {
+   "funct3": 5,
+   "addr_lo": 2,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 0,
+   "byte_en": 12,
+   "wdata_lanes": null,
+   "load_data": 61922
+  },
+  {
+   "funct3": 5,
+   "addr_lo": 3,
+   "store_data": 2309737967,
+   "mem_rdata": 4058174404,
+   "misaligned": 1,
+   "byte_en": null,
+   "wdata_lanes": null,
+   "load_data": null
+  }
+ ]
+}

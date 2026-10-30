@@ -1,0 +1,4 @@
+PROG := gfx_test
+SRCS := gfx_test.c gfx.c fixed.c sin_table.c cube.c
+BUILD := build/gfx_test
+include ../common/rules.mk
